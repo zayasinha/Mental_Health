@@ -1,4 +1,4 @@
-# Mental_Health
+# Mental_Health_Tracker
 AI-powered social media monitoring for early suicide prevention
 
 🔍 Real-time Analysis - Processes Reddit posts   
